@@ -12,6 +12,17 @@
 > Skype: nicolay021
 <br>
 
+
+## ABOUT ME
+
+Highly-motivated Junior Front End / Full Stack Software engineer 
+who is excited to learn new things, and help in shaping, building 
+a product, working with a cross-functional group. Skilled in 
+HTML/CSS/JS, Python, SQL, cloud deployment on Heroku, Azure. 
+Has practical experience in  implementation of several projects.
+<br>
+
+
 ## SKILLS
 
 **Front End:**                
