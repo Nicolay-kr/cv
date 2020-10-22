@@ -42,6 +42,23 @@ Has practical experience in  implementation of several projects.
 
 
 
+## EDUCATION
+  * 2019-2020 Minsk
+  
+    > **IT-Academy**
+    >
+    > Python developer
+    
+  * 2012-2014 Minsk
+   
+     > **International house - english language school**
+     >
+     > English level - intermidiate.
+
+
+
+
+
 
 ## WORK EXPERIENCE
 
