@@ -1,26 +1,26 @@
-# Krischenovich Nicolay
-<br>
+# Nicolay Krischenovich 
+*FRONT-END DEVELOPER*
+
+
 
 ## CONTACTS
 
-> telefon: +375298996866
+> Telefon: +375298996866
 >
-> email: nicolay.krischenovich@gmail.com
+> Email: nicolay.krischenovich@gmail.com
 >
 >Linkedin: <https://www.linkedin.com/in/krischenovich/>
 >
 > Skype: nicolay021
-<br>
+
 
 
 ## ABOUT ME
 
-Highly-motivated Junior Front End / Full Stack Software engineer 
-who is excited to learn new things, and help in shaping, building 
-a product, working with a cross-functional group. Skilled in 
-HTML/CSS/JS, Python, SQL, cloud deployment on Heroku, Azure. 
+Highly-motivated Junior Front End / Full Stack Software engineer who is excited to learn new things, and help in shaping, building 
+a product, working with a cross-functional group. Skilled in HTML/CSS/JS, Python, SQL, cloud deployment on Heroku, Azure. 
 Has practical experience in  implementation of several projects.
-<br>
+
 
 
 ## SKILLS
@@ -39,49 +39,32 @@ Has practical experience in  implementation of several projects.
 
 **Version Control System:**
   * Git - ***
-<br>
 
-## EDUCATION
-  * 2019-2020 Minsk
-  
-    > **IT-Academy**
-    >
-    > Python developer
-    
-  * 2012-2014 Minsk
-   
-     > **International house - english language school**
-     >
-     > English level - intermidiate.
-    
-  * 2008-2012 Minsk
-  
-    > **Belarussian national tecnical university**
-    >
-    > Сivil engineer
- <br> 
- 
-## WORK EXPIRIENCE
-   
+
+
+
+## WORK EXPERIENCE
+
 * ### Self-employed
 
      > **project title:** www.revconmgt.com
      >
-     > **discription:** revconmgt.com
-     > is adaptive web application which was implemented for REVCON, LLS. It’s contain complete information about company and has form for service order.
+     > **description:** revconmgt.com
+     > is an adaptive web application which was implemented for REVCON, LLS. It contains complete information about the company and has a form for service order.
      >
      > **Technologies used:** HTML, CSS, JavaScript, Python (Django), SQLite, GIT.
      >
      > **Application link:** <http://www.revconmgt.com>
      >
      > **Code link:** <https://github.com/Nicolay-kr/revcon_managment>
-     <br>
+     
+     
      
      
      > **project title:** [www.griffelstudio.com](https://nicolay.pythonanywhere.com/)
      >
-     > **discription:** griffelstudio.com
-     > is adaptive web application which was implemented for Griffel Studio company. It’s contain information about company, video tutorial, form for service order.
+     > **description:** griffelstudio.com
+     > is an adaptive web application which was implemented for Griffel Studio company. It contains information about the company, video tutorial, form for service order.
      >
      > **Technologies used:** HTML, CSS, JavaScript, Python (Django), SQLite, GIT.
      >
